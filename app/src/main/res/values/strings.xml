@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mascara   INFO104</string>
+    <string name="dialog_wait">Cargando</string>
+    <string name="btnConsulta">Consultar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_evento">Eventos</string>
+    <string name="title_cursos">Cursos</string>
+    <string name="title_planificacion">Planificar</string>
+    <string name="title_foro">Foro</string>
+    <string name="title_material">Material</string>
+
+
+    <string name="title_curso1">Geometría</string>
+</resources>
